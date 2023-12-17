@@ -2,8 +2,8 @@
 
 Nama saya Galbi Nadifah, saya kuliah di universitas muhammadiyah makassar jurusan informatika. saya tinggal di jalan sultan Alauddin. saya hobi membaca,nonton dan menulis,Saya bergabung di organisasi coconut computer cleb pada tahun 2022 .
 
-<img src="https://user-images.githubusercontent.com/65858180/137301567-37e84890-e360-4f86-9dcc-127ff7f4f85b.gif" >
-
+<img src="difah.png" >
+<!-- https://user-images.githubusercontent.com/65858180/137301567-37e84890-e360-4f86-9dcc-127ff7f4f85b.gif -->
 
 - 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
 - 🌱 I’m currently learning new things
